@@ -1,1 +1,1 @@
-# Python-Problem-Statement-Smallest-Substring
+# Python Problem Statement (Smallest Substring)
